@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Cristyan 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cristyansilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cristyansilva/)
 
 ![Cristyan](https://github-readme-stats.vercel.app/api?username=Cristyan2002&show_icons=true&theme=dark)
 
