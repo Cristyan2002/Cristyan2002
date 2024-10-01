@@ -17,5 +17,6 @@
 
 
 ### Apaixonado por tecnologia e ciência de dados, transformando dados em insights poderosos!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristyan2002&hide_progress=true)
 
 </div>
